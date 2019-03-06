@@ -1,5 +1,6 @@
 # 腾讯位置服务移动端技术产品图谱
-官网地址：lbs.qq.com
+官网地址： lbs.qq.com
+
 ## 地图SDK
 
 **Android版本**
