@@ -23,6 +23,8 @@ https://github.com/TencentLBS/TencentVectorMapDemo_Android
 
 1.下载地址和demo
 
+https://lbs.qq.com/ios_v1/download_3d.html
+
 2. 参考手册
 
 https://lbs.qq.com/IOSDocs/html_3d/index.html
