@@ -44,11 +44,13 @@ https://github.com/TencentLBS/TencentNaviDemo_Android
 
 **IOS版本**
 
-https://github.com/TencentLBS/TencentNaviDemo_iOS
 
 1. 下载地址和参考手册
 
 2. 开发指南
+
+https://github.com/TencentLBS/TencentNaviDemo_iOS
+
 
 ## 检索能力
 
