@@ -51,9 +51,6 @@ https://github.com/TencentLBS/TencentNaviDemo_iOS
 2. 开发指南
 
 ## 检索能力
-**检索SDK**
-
-上线准备中
 
 **检索服务**
 
@@ -61,6 +58,8 @@ https://lbs.qq.com/webservice_v1/index.html
 
 
 ## 个性化底图能力
+
+**官网接入指引以及开发指南**
 
 https://lbs.qq.com/console/customized/set/
 
