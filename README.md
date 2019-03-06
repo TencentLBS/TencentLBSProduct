@@ -34,14 +34,17 @@ https://lbs.qq.com/ios_v1/index.html
 
 
 ## 检索能力
-***检索SDK***
+**检索SDK
+
 上线准备中
-***检索服务***
+
+**检索服务
 
 https://lbs.qq.com/static_v2/index.html
 
 
-##个性化底图能力
+## 个性化底图能力
+
 https://lbs.qq.com/console/customized/set/
 
 
