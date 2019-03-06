@@ -40,7 +40,7 @@ https://lbs.qq.com/ios_v1/index.html
 
 **检索服务**
 
-https://lbs.qq.com/static_v2/index.html
+https://lbs.qq.com/webservice_v1/index.html
 
 
 ## 个性化底图能力
