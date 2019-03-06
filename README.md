@@ -38,16 +38,20 @@ https://lbs.qq.com/ios_v1/index.html
 **Android版本**
 1. 下载地址和参考手册
 
-2. 开发指南
+https://lbs.qq.com/sdk-download.html?rc=456ebfced71212abf2ca2ad123e252e1
+
+2. 开发指南（需要更换最新版本）
 
 https://github.com/TencentLBS/TencentNaviDemo_Android
 
 **IOS版本**
 
-
 1. 下载地址和参考手册
 
-2. 开发指南
+https://lbs.qq.com/sdk-download.html?rc=b30cea2591fc225b87d3afc6bb6c0dfc
+
+
+2. 开发指南（需要更换最新版本）
 
 https://github.com/TencentLBS/TencentNaviDemo_iOS
 
