@@ -55,27 +55,7 @@ https://lbs.qq.com/sdk-download.html?rc=b30cea2591fc225b87d3afc6bb6c0dfc
 
 https://github.com/TencentLBS/TencentNaviDemo_iOS
 
-## 司乘同显SDK
 
-**Android版本**
-
-1. 下载地址和参考手册
-
-https://lbs.qq.com/sdk-download.html?rc=b166fb8d210bb647fe724de8df0dd350
-
-2. 开发指南（需要更换最新版本）
-
-https://github.com/TencentLBS/TencentNaviDemo_Android
-
-**IOS版本**
-
-1. 下载地址和参考手册
-
-https://lbs.qq.com/sdk-download.html?rc=8975b7a8cd9da44c09324a09bbf8b488
-
-2. 开发指南（需要更换最新版本）
-
-https://github.com/TencentLBS/TencentSynchroDemo_iOS
 
 ## 检索能力
 
