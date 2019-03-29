@@ -48,7 +48,7 @@ https://github.com/TencentLBS/TencentNaviDemo_Android
 
 1. 下载地址和参考手册
 
-https://lbs.qq.com/sdk-download.html?rc=b30cea2591fc225b87d3afc6bb6c0dfc
+https://lbs.qq.com/sdk-download.html?rc=aae954672dd01633284c5d722e67607a
 
 
 2. 开发指南（需要更换最新版本）
