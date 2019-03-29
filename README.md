@@ -38,7 +38,7 @@ https://lbs.qq.com/ios_v1/index.html
 **Android版本**
 1. 下载地址和参考手册
 
-https://lbs.qq.com/sdk-download.html?rc=456ebfced71212abf2ca2ad123e252e1
+https://lbs.qq.com/sdk-download.html?rc=eab9b80453cb5087f1de1ddedba40477
 
 2. 开发指南（需要更换最新版本）
 
