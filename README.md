@@ -66,13 +66,21 @@ https://github.com/TencentLBS/TencentNaviDemo_iOS
 
 **Android版本**
 
-开发指南
+1.下载链接
+
+  联系商务
+
+2. 开发指南
 
 https://github.com/TencentLBS/TencentWalkNaviDemo_Android
 
 **ios版本**
 
-开发指南
+1.下载链接
+
+  联系商务
+
+2. 开发指南
 
 https://github.com/TencentLBS/TencentWalkNaviDemo_iOS
 
