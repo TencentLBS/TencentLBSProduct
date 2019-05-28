@@ -17,7 +17,9 @@ https://lbs.qq.com/AndroidDocs/doc_3d/index.html
 
 https://lbs.qq.com/android_v1/index.html
 
-https://github.com/TencentLBS/TencentVectorMapDemo_Android
+地图SDK指南： https://github.com/TencentLBS/TencentVectorMapDemo_Android 
+
+地图组件库（小车平滑移动等）：https://github.com/TencentLBS/TencentMapUtils_Android
 
 **IOS版本**
 
@@ -33,7 +35,11 @@ https://lbs.qq.com/IOSDocs/html_3d/index.html
 
 https://lbs.qq.com/ios_v1/index.html
 
-## 导航SDK
+地图SDK指南： https://github.com/TencentLBS/TencentVectorMapDemo_iOS
+
+地图组件库（小车平滑移动等）：https://github.com/TencentLBS/TencentMapUtils_iOS
+
+## 驾车导航SDK
 
 **Android版本**
 1. 下载地址和参考手册
@@ -55,6 +61,14 @@ https://lbs.qq.com/sdk-download.html?rc=aae954672dd01633284c5d722e67607a
 
 https://github.com/TencentLBS/TencentNaviDemo_iOS
 
+
+## 步行导航SDK
+开发指南
+**Android版本**
+https://github.com/TencentLBS/TencentWalkNaviDemo_Android
+
+**ios版本**
+https://github.com/TencentLBS/TencentWalkNaviDemo_iOS
 
 
 ## 检索能力
