@@ -64,13 +64,15 @@ https://github.com/TencentLBS/TencentNaviDemo_iOS
 
 ## 步行导航SDK
 
-开发指南
-
 **Android版本**
+
+开发指南
 
 https://github.com/TencentLBS/TencentWalkNaviDemo_Android
 
 **ios版本**
+
+开发指南
 
 https://github.com/TencentLBS/TencentWalkNaviDemo_iOS
 
