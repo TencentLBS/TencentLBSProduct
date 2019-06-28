@@ -17,7 +17,7 @@ https://lbs.qq.com/AndroidDocs/doc_3d/index.html
 
 https://lbs.qq.com/android_v1/index.html
 
-地图SDK指南： https://github.com/TencentLBS/TencentVectorMapDemo_Android 
+地图SDK指南： https://github.com/TencentLBS/TencentMapDemo_Android 
 
 地图组件库（小车平滑移动等）：https://github.com/TencentLBS/TencentMapUtils_Android
 
@@ -35,7 +35,7 @@ https://lbs.qq.com/IOSDocs/html_3d/index.html
 
 https://lbs.qq.com/ios_v1/index.html
 
-地图SDK指南： https://github.com/TencentLBS/TencentVectorMapDemo_iOS
+地图SDK指南： https://github.com/TencentLBS/TencentMapDemo_iOS
 
 地图组件库（小车平滑移动等）：https://github.com/TencentLBS/TencentMapUtils_iOS
 
